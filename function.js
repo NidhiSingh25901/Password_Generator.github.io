@@ -74,7 +74,7 @@
 77
 78
 	
-// Code By Webdevtrick ( https://webdevtrick.com )
+
 var clipboard = new Clipboard('.copy')
 var lowercase = "abcdefghijklmnopqrstuvwxyz",
   uppercase = "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
