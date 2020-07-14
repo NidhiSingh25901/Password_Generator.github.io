@@ -251,7 +251,9 @@ h1 {
   transition: all 0.3s ease;
 }
 .wrapper .controls .generate:hover {
-  background: white;
+  background: orange; 
+	
+	
 }
 #length-box {
   width: 100%;
