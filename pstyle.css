@@ -183,7 +183,7 @@ h1 {
 }
 .wrapper .password-section {
   position: relative;
-  border: 2px solid lightgray;
+  border: 2px solid orange;
   color: grey;
   margin-top: 20px;
   padding: 2px 2px 2px 8px;
